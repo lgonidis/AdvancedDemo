@@ -41,5 +41,9 @@ The `echo: false` option disables the printing of code (only output is displayed
 ```
 
 ```{r}
+<<<<<<< HEAD
 #Rachael is here
+=======
+# Anna's code
+>>>>>>> b0180ae614c91ced40afd5350cfdc37cb8f2487a
 ```
