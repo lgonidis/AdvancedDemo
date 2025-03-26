@@ -35,3 +35,7 @@ The `echo: false` option disables the printing of code (only output is displayed
 ```{r}
 # this is new code
 ```
+
+```{r}
+# Mauricio`s code`
+```
